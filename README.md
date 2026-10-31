@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+## Hulaaa hiiii! 𐙚
+
+● I'm interested in systems programming, databases & software testing
+
+● Currently exploring Rust and Property-Based Testing.
+
+● Love understanding how things work under the hood
+
+● Open to internships, open-source contributions & collaborations
+
+
+
 <!--
 **Padmasri-Nambi/Padmasri-Nambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
