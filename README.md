@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hulaaa hiiii! 𐙚
 
 ● I'm interested in systems programming, databases & software testing
